@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+
+    <a href="https://google.com" target="_blank">Link
+        <h1> Titulo </h1>
+        <p> Corpo do texto </p>
+        <img src="https://chefbob.com.br/wp-content/uploads/2021/05/2021-05-12-como-deixar-os-gatos-mais-tranquilos.jpg">
+    </a>
+    <a href="mailto:nome@gmail.com">Email</a>
+    <a href="tel:123456789">Telefone</a>
+        <br>
+    <a href="receitas.html">Ir para receita de bolo</a>
+<br><br><br>
+    <table>
+        <caption> Tabela deprodutos vendidos</caption>
+
+        <thead>
+            <tr>
+                <th>Produto 1</th>
+                <th>Produto 2</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>10</td>
+                <td>20</td>
+            </tr>
+
+            <tr>
+                <td>15</td>
+                <td>20</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>25</td>
+                <td>27</td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <table> 
+        
+    </table>
+
+
+
+</body>
+</html>

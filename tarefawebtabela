@@ -1,0 +1,100 @@
+<table border="1">
+
+  
+    <colgroup>
+      <col span="1" style="background-color:lightseagreen;"> 
+      <col span="1" style="background-color:rgb(72, 143, 139);"> 
+      <col span="1" style="background-color:lightseagreen;"> 
+      <col span="1" style="background-color:rgb(72, 143, 139);">
+      <col span="1" style="background-color:lightseagreen;"> 
+      <col span="1" style="background-color:rgb(72, 143, 139);">
+     
+    </colgroup>
+  
+    <rowgroup>
+      <row style="background-color: lightgray;">
+    </rowgroup>
+  
+    <thead>
+        <tr>
+            <th colspan="6" scope="colgroup" style="background-color: rgb(72, 143, 139);">Preço de livros vendidos na Amazon</th>
+        </tr>
+
+      <tr>
+   
+        <th colspan="2" scope="colgroup" style="background-color: aquamarine;">Romance</th>
+        <th colspan="2" scope="colgroup" style="background-color: aquamarine;">Fantasia</th>
+        <th colspan="2" scope="colgroup" style="background-color: aquamarine;">Terror</th>
+      </tr>
+  
+      <tr>
+        <th scope="col">Livro</th>
+        <th scope="col">Preço</th>
+        <th scope="col">Livro</th>
+        <th scope="col">Preço</th>
+        <th scope="col">Livro</th>
+        <th scope="col">Preço</th>
+      </tr>
+    </thead>
+    <tbody>
+        
+      <tr>
+       
+        <th scope="row">Todas as suas impereições</th>
+        <td>38.40</td>
+        <th scope="row">Corte de espinhos e rosas</th>
+        <td>41.90</td>
+        <th scope="row">A paciente silenciosa</th>
+        <td>41.90</td>
+  
+      </tr>
+  
+      <tr>
+     
+        <th scope="row">Como sobreviver a realeza</th>
+      <td>25.90</td>
+      <th scope="row">De sangue e cinzas</th>
+      <td>39.90</td>
+      <th scope="row">Mascara da maldade</th>
+      <td>49.99</td>
+      </tr>
+  
+      <tr>
+     
+        <th scope="row">O acordo</th>
+        <td>38.99</td>
+        <th scope="row">O principe cruel</th>
+        <td>41.90</td>
+        <th scope="row">Saboroso cadáver</th> 
+        <td>41.90</td>   
+      
+  
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        
+        <th scope="row">Amor e gelato</th>
+        <td>33.90</td>
+        <th scope="row">O reino das bruxas</th>
+        <td>55.99</td>
+        <th scope="row">O colecionador</th>
+        <td>43.99</td>
+  
+      </tr>
+  
+      <tr>
+        <th scope="row">Eu e esse meu coração</th>
+          <td>39.99</td>
+          <th scope="row">Um reino de carne e fogo</th>
+          <td>45.40</td>
+          <th scope="row">It a coisa</th>
+          <td>70.40</td>
+       </tr>
+          
+  
+    </tfoot>
+  </table>
+  
+  
+  

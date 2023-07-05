@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 9 -  Landing page</title>
+
+    <link rel="stylesheet" href="tarefasite.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https: //fonts.googleapis.com/css2?family= família= Roboto:wght@100;300;400;700;900 & display=swap" rel="stylesheet">
+</head>
+
+<body>
+     <header class="navbar"> 
+        <a href="" class="logo">
+           <img src="lb.png" alt="Logomarca da empresa">
+           <span>Livraria Lily Bloom's</span>
+        </a>
+        <nav>
+            <ul class="nav-list">
+                <li class="nav-list-item">
+                    <a href="">Livros</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="">Lançamentos</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="">Gênero</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="">Livros com brinde</a>
+                </li>
+                <li class="nav-list-item">
+                    <a href="">Carrinho</a>
+                </li>
+            </ul>
+        </nav>
+
+        <div>
+            <a href="">Log in</a>
+            
+        </div> 
+     </header>
+ 
+      <section class="produtos">
+        <h1 class="livros"> </h1>
+        <div class="divisao">
+          
+        <article class="product-card">
+            <img src="https://i.zst.com.br/thumbs/12/38/35/1458379596.jpg" alt="capa do livro é assim que acaba">
+            <h2>Livro É assim que acaba</h2>
+          </article>
+          <article class="product-card">
+            <img src="https://i.zst.com.br/thumbs/12/18/15/1458478800.jpg" alt="capa do livro eu e esse meu coração">
+            <h2>Livro Eu e esse meu coração</h2>
+          </article>
+          <article class="product-card">
+            <img src="https://i.zst.com.br/thumbs/12/f/28/1458091951.jpg" alt="capa do livro Corte de espinhos e rosas">
+            <h2>Livro Corte de espinhos e rosas</h2>
+          </article>
+          <article class="product-card">
+            <img src="https://i.zst.com.br/thumbs/12/d/31/1458177647.jpg" alt="capa do livro Corte de névoa e fúria">
+            <h2>Livro Corte de névoa e fúria</h2>
+          </article>
+          <article class="product-card">
+            <img src="https://i.zst.com.br/thumbs/12/3b/10/1458341654.jpg" alt="capa do livro Corte de asas e ruínas">
+            <h2>Livro Corte de asas e ruínas</h2>
+          </article>
+          <article class="product-card">
+            <img src="https://i.zst.com.br/thumbs/12/2b/2e/1458064430.jpg" alt="capa do livro o lado feio do amor">
+            <h2>Livro O lado feio do amor</h2>
+          </article>
+          <article class="product-card">
+            <img src="https://i.zst.com.br/thumbs/12/d/15/1458489320.jpg" alt="capa do livro corte de gelo e estrelas">
+            <h2>Livro Corte de gelo e estrelas</h2>
+          </article>
+          <article class="product-card">
+            <img src="https://i.zst.com.br/thumbs/12/1a/14/1458147329.jpg" alt="capa do livro o acordo">
+            <h2>Livro O acordo</h2>
+          </article>
+          <article class="product-card">
+            <img src="https://a-static.mlcdn.com.br/1500x1500/livro-box-percy-jackson-e-os-olimpianos-capa-nova/magazineluiza/213295100/3b095992a0db40c045edee64f590cec5.jpg" alt="capa do livro Percy Jackson">
+            <h2>Livro Percy Jackson</h2>
+          </article>
+          <article class="product-card">
+            <img src="https://a-static.mlcdn.com.br/800x560/livro-a-paciente-silenciosa-alex-michaelides-edicao-economica-alex-michaelides-edicao-economica/magazineluiza/227603900/225e873c61af0d343cf6af0c7b6b1058.jpg" alt="capa do livro a paciente silenciosa">
+            <h2>Livro A paciente silenciosa</h2>
+          </article>
+          <article class="product-card">
+            <img src="https://a-static.mlcdn.com.br/1500x1500/title-reference/magazineluiza/233253900/a16c0533c0bc26a2e3bec969d8ad6b1b.jpg" alt="capa do livro de sangue e cinzas">
+            <h2>Livro De Sangue e Cinzas</h2>
+          </article>
+          <article class="product-card">
+            <img src="" alt="capa do livro o acordo">
+            <h2>Livro O acordo</h2>
+          </article>
+
+        </div>
+      </section>
+</body>
+</html>

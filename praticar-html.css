@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aula 19</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- 
+    FORMS!
+
+    <form> - ok
+    <fieldset> - ok
+    <legend> - ok
+    <input> - ok
+    <label> - ok
+
+   -->
+
+   <form action="">
+    <h1>Cadastre-se agora:</h1>
+    <fieldset>
+      <legend>Dados pessoais:</legend>
+      <br>
+
+      <label for="input-name">Nome completo: </label>
+      <input 
+        id="input-name"
+        name="nome"
+        type="text"
+        placeholder="Insira seu nome aqui"
+        required
+      >
+      
+      <br>
+
+      <label for="input-cpf">CPF:</label>
+      <input
+        id="input-cpf"
+        name="cpf"
+        type="number"
+        placeholder="123.123.123-12"
+        required
+      >
+
+      <br>
+      
+      <label for="input-data_nasc">Data de nascimento:</label>
+      <input id="input-data_nasc" name="data_nasc" type="date">
+    </fieldset>
+
+    <fieldset>
+      <legend>Dados de usuário:</legend>
+      <br>
+
+      <label for="input-email">Email: </label>
+      <input 
+        id="input-email"
+        name="email"
+        type="email"
+      >
+
+      <br>
+
+      <label for="input-senha">Sua senha: </label>
+      <input 
+        id="input-senha"
+        name="senha"
+        type="password"
+      >
+
+    </fieldset>
+
+    <button type="submit">Enviar</button>
+   </form>
+  
+</body>
+</html>
+
+CSS
+
+ * {
+    padding: 0;
+    margin: 0;
+  }
+
+  body {
+    padding: 16px;
+  }
+	
